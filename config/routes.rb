@@ -1,4 +1,20 @@
 CachingTesting::Application.routes.draw do
+  get "c2/p1"
+
+  get "c2/p2"
+
+  get "c2/p3"
+
+  get "c2/p4"
+
+  get "c1/p1"
+
+  get "c1/p2"
+
+  get "c1/p3"
+
+  get "c1/p4"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
